@@ -1,0 +1,20 @@
+body {
+	background: linear-gradient(lightblue,slateblue,lightpink);
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+}
+
+.lista{
+	font-weight: bold;
+}
+
+.informações{
+	font-weight: bold;
+
+}
+
+.Mais{
+	font-weight: bold;
+}
+
+
